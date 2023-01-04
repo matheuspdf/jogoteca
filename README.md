@@ -7,3 +7,12 @@
    <li>Como inicializar, pela primeira vez, uma aplicação feita em Flask através do app = Flask(__name__);</li>
 </ul>
 <br>
+
+2. Listando jogos usando  o Flask
+<ul>
+   <li>Como adicionar conteúdos dinâmicos através do delimitadores do Jinja2.li>
+   <li>Como pegar dados do servidor.li>
+   <li>Como mostrar os atributos na view.li>
+</ul>
+<br>
+
