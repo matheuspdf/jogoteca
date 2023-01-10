@@ -16,3 +16,19 @@
 </ul>
 <br>
 
+3. Criação de um jogo
+<ul>
+   <li>Como criar itens para nossa aplicação através do formulário do navegador.<li>
+   <li>Como montar formulários e capturar suas informações utilizando o Flask.<li>
+   <li>O que é e como resolver o método POST no servidor<li>
+</ul>
+<br>
+
+4. Flask: crie uma webapp com Python
+<ul>
+   <li>Como fazer redirecionamento de páginas através da função redirect()<li>
+   <li>Como utilizar o bootstrap para estilizar nossa página.<li>
+   <li>Como reutilizar trechos do template.<li>
+    <li>Como gerar URLs dinâmicas.<li>
+</ul>
+<br>
