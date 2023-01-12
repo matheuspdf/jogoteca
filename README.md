@@ -8,27 +8,35 @@
 </ul>
 <br>
 
-2. Listando jogos usando  o Flask
+2. Listando jogos usando o Flask
 <ul>
-   <li>Como adicionar conteúdos dinâmicos através do delimitadores do Jinja2.li>
-   <li>Como pegar dados do servidor.li>
-   <li>Como mostrar os atributos na view.li>
+   <li>Como adicionar conteúdos dinâmicos através do delimitadores do Jinja2.</li>
+   <li>Como pegar dados do servidor.</li>
+   <li>Como mostrar os atributos na view.</li>
 </ul>
 <br>
 
 3. Criação de um jogo
 <ul>
-   <li>Como criar itens para nossa aplicação através do formulário do navegador.<li>
-   <li>Como montar formulários e capturar suas informações utilizando o Flask.<li>
-   <li>O que é e como resolver o método POST no servidor<li>
+   <li>Como criar itens para nossa aplicação através do formulário do navegador.</li>
+   <li>Como montar formulários e capturar suas informações utilizando o Flask.</li>
+   <li>O que é e como resolver o método POST no servidor</li>
 </ul>
 <br>
 
 4. Flask: crie uma webapp com Python
 <ul>
-   <li>Como fazer redirecionamento de páginas através da função redirect()<li>
-   <li>Como utilizar o bootstrap para estilizar nossa página.<li>
-   <li>Como reutilizar trechos do template.<li>
-    <li>Como gerar URLs dinâmicas.<li>
+   <li>Como fazer redirecionamento de páginas através da função redirect()</li>
+   <li>Como utilizar o bootstrap para estilizar a nossa página.</li>
+   <li>Como reutilizar trechos do template.</li>
+    <li>Como gerar URLs dinâmicas.</li>
+</ul>
+<br>
+
+5. Autenticando usuários com sessão do Flask
+<ul>
+   <li>Como criar a tela de login.</li>
+   <li>Como guardar os dados da sessão.</li>
+   <li>Como deslogar a sessão.</li>
 </ul>
 <br>
