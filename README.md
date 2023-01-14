@@ -40,3 +40,10 @@
    <li>Como deslogar a sessão.</li>
 </ul>
 <br>
+
+6. Implementando autorização para criar jogos
+<ul>
+    Como fazer a proteção de rotas.</li>
+    <li>Como tornar melhor nosso fluxo de login.</li>
+    <li>Como controlar múltiplos usuários.</li>
+</ul>
